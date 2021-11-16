@@ -1,4 +1,4 @@
-# Games
+# About
 
 this is a file about a game
 the idea comes from a Chinese old myth called "hou yi she ri",which tells a story of a hero with a bow shot down nine suns in the sky and left only one there. He saved people from the deadly heat.
